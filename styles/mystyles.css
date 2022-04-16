@@ -1,0 +1,36 @@
+.center {
+    text-align: center
+}
+
+.centerimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.olive {
+    color: cadetblue
+        
+}
+
+.fonty {
+    font-family: monospace
+}
+.underline{
+    text-decoration: underline
+}
+
+.left small {
+    text-align: left;
+    font-size: 15;
+
+}
+
+.divcent{
+    text-align: center
+}
+.backgroundy {
+    background-color: floralwhite;
+    
+}
